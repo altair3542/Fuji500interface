@@ -1,0 +1,13 @@
+<configure xmlns="http://namespaces.zope.org/zope"
+           xmlns:i18n="http://namespaces.zope.org/i18n"
+           i18n_domain="tuorg.senaite.instruments.fuji500">
+
+  <!-- Registro de la interfaz del instrumento (ajusta a tu versión de senaite.instruments) -->
+  <!--
+  <utility
+      provides="senaite.instruments.interfaces.IInstrumentParser"
+      factory="tuorg.senaite.instruments.fuji500.parser.parse_file"
+      name="FUJI500" />
+  -->
+
+</configure>

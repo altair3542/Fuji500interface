@@ -43,6 +43,7 @@ import pathlib
 import binascii
 import sys
 
+
 def _get_env_int(name, default):
     """Lee un entero de variables de entorno, con valor por defecto si falta/está mal."""
     try:

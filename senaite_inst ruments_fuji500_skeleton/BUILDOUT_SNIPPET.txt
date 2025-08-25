@@ -1,0 +1,4 @@
+[buildout]
+eggs +=
+    senaite.instruments
+    tuorg.senaite.instruments.fuji500
